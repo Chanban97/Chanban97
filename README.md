@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chanban97
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ... chantelbankhead2@gmail.com
 
 <!---
